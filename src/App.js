@@ -38,7 +38,7 @@ function App() {
   }, [page, newUserAdded]);
 
   return (
-    <div className="2xl:w-[1170px] lg:w-[1024px] md:w-[768px] w-[360px] m-auto">
+    <div className="2xl:w-[1170px] lg:w-[1024px] md:w-[768px] w-[360px] m-auto font-nunito">
       <Navbar />
       <Home />
       <Users users={users} enabled={enabled} setPage={setPage} />
