@@ -1,4 +1,4 @@
-import heroImage from "../../assets/pexels-alexandr-podvalny-1227513.jpeg";
+import heroImage from "../../assets/hero-image.jpeg";
 import { scrollToSection } from "../../utils";
 
 function Home() {
