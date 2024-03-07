@@ -1,4 +1,4 @@
-import heroImage from "../../assets/hero-image.jpeg";
+import heroImage from "../../assets/hero-image.webp";
 import { scrollToSection } from "../../utils";
 
 function Home() {
